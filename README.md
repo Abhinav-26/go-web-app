@@ -1,2 +1,2 @@
-# go-web-app
+# Go Web App
 A basic web app returning http response written in go.
